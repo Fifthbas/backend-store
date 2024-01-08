@@ -1,2 +1,2 @@
-# backend-store
-BE app
+# backend store
+backend app
